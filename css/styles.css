@@ -10876,6 +10876,9 @@ p.lead {
   font-weight: 500;
   font-size: 1.5rem;
 }
+.subheading_1{
+  text-transform: lowercase;
+}
 
 #sideNav {
   padding-left: 1rem;
