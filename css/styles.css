@@ -283,8 +283,18 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #6c757d;
-  text-align: left;
+  color: #000;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.caption{
+  text-align: center;
+  color:#000;
+  margin-top:8px;
+}
+.portfolio_img{
+  border:2px solid black;
 }
 
 th {
@@ -10982,4 +10992,9 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.portfolio_img{
+  width: 450px;
+  height:270px;
 }
